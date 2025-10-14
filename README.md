@@ -27,8 +27,8 @@ Primeiro, clone o repositório do projeto para o seu computador.
 # Navegue no terminal até a pasta onde você guarda seus projetos
 cd Documentos/Projetos
 
-# Clone o repositório (substitua a URL pela URL do seu projeto)
-git clone [https://github.com/hortas-urbanas/hortas-urbanas.git](https://github.com/hortas-urbanas/hortas-urbanas.git)
+# Clone o repositório 
+git clone https://github.com/hortas-urbanas/hortas-urbanas.git
 
 # Entre na pasta do projeto que acabou de ser criada
 cd hortas-urbanas
