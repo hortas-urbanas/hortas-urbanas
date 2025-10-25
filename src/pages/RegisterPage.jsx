@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Input, Button } from '../components/UIKit';
+import { Card, Input, Button } from '../components/UIKit.jsx'; // <--- CORREÇÃO AQUI
 import { Link } from 'react-router-dom';
 
 const RegisterPage = () => {
@@ -22,3 +22,4 @@ const RegisterPage = () => {
 };
 
 export default RegisterPage;
+
